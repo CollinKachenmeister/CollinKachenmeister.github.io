@@ -7,12 +7,15 @@
   The following artifacts contain my original program from a previous course as well as three enhanced versions. The three enhanced versions of this program will showcase the full range of my computer science talents and abilities through software design and engineering, algorithms and data structure, and databases. The original program is a rescue animal management program written in Java. In my first enhancement, I transferred the project from Java into Python. In my second enhancement, I utilized dictionaries to improve the lookup times of the program. In my third enhancement, I created a database with SQLite to store animal records. 
 
 ### Code Review and Original Code
-- The link named "Video" will take you to my code review on YouTube. The link named "Code" will take you to the repository containing the original code files. 
+- The link named "Video" will take you to my code review on YouTube. 
 - [Video](https://www.youtube.com/watch?v=PhLqyLRzCWo)
+- The link named "Code" will take you to the repository containing the original code files. 
 - [Code](https://github.com/CollinKachenmeister/CollinKachenmeister.github.io/tree/main/Grazioso)
 
 ### Enhancement 1 - Software Design and Engineering
 
+- The link named "Video" will take you to my video on YouTube discussing these enhancements.
+- [Video](https://www.youtube.com/watch?v=vNH8NqsO3v8) 
 - The link named "Code" will take you to the repository containing the enhanced code files.
 - [Code](https://github.com/CollinKachenmeister/CollinKachenmeister.github.io/tree/main/Grazioso%20-%20Enhancement%201%20Python)
 - This artifact is a Java program designed for rescue animals. It allows the user to intake new rescue dogs and monkeys into the program. The user can then change the reserve status of an animal, print a list of all dogs, print a list of all monkeys, and print a list of all animals that are in-service and not reserved. It was created in my IT-145 class at the beginning of 2023. 
@@ -23,6 +26,8 @@
 
 ### Enhancement 2 - Algorithms and Data Structures
 
+- The link named "Video" will take you to my video on YouTube discussing these enhancements.
+- [Video](https://www.youtube.com/watch?v=7SQIQyyDJjE)
 - The link named "Code" will take you to the repository containing the enhanced code files.
 - [Code](https://github.com/CollinKachenmeister/CollinKachenmeister.github.io/tree/main/Grazioso%20-%20Enhancement%202%20Algorithms)
 - This artifact is the same artifact that I used for my first enhancement. It was originally a program written in Java designed for rescue animals. It allows the user to intake new rescue dogs and monkeys into the program. The user can then change the reserve status of an animal, print a list of all dogs, print a list of all monkeys, and print a list of all animals that are in-service and not reserved. The artifact was created in my IT-145 class at the beginning of 2023. 
@@ -33,6 +38,8 @@
 
 ### Enhancement 3 - Databases
 
+- The link named "Video" will take you to my video on YouTube discussing these enhancements.
+- [Video](https://www.youtube.com/watch?v=Oxta32vM2Ns)
 - The link named "Code" will take you to the repository containing the enhanced code files.
 - [Code](https://github.com/CollinKachenmeister/CollinKachenmeister.github.io/tree/main/Grazioso%20-%20Enhancement%203%20Database)
 - This artifact is the same artifact that I used for in my previous two enhancements. It was originally a program written in Java designed for rescue animals. It allows the user to intake new rescue dogs and monkeys into the program. The user can then change the reserve status of an animal, print a list of all dogs, print a list of all monkeys, and print a list of all animals that are in-service and not reserved. The artifact was created in my IT-145 class at the beginning of 2023.
